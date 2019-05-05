@@ -1,5 +1,5 @@
 displayName = Omni Shot
 author = TFC The Flying Creeper (GiantLuigi4)
-version = 1.0.1
+version = 1.0.11
 includeSource = true
 includePDB = false
