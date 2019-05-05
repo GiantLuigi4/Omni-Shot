@@ -1,0 +1,1 @@
+Makes it so all ammo can be used for any weapon that uses ammo.
